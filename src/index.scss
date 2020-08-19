@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: #222;
+$mainGreen: #82b340;
+$mainWhite: #fff;
+$mainGrey: #D3D3D3;
+$mainBlue:	#008080;
+$mainTransition: all 0.3s linear;
+
+body {
+  font-family: 'Pangolin', cursive;;
+  background: $mainWhite;
+  color: $mainBlack;
+}
